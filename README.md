@@ -76,7 +76,7 @@ proc univariate data=bwg normal plot;
  INSET MEAN STD /CFILL=BLANK FORMAT=5.2;
 run;
 ```
-![univariate](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/02_univarate.png)
+![univariate](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/02_univariate.png)
 
 
 /* Data Cooking:
