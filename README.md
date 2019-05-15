@@ -116,15 +116,37 @@ run;
 
 Podemos eliminar una de las dos del conjunto de datos a estudiar. Ya que `CigsPerDay`da más datos que `MomSmoke`, eliminamos MomSmoke.
 
+Además, la variable MomAge está referida a 25 años, para que el estudio sea más sencillo se cambia la variable a su valor real
+
+```
+data bwgC (drop = momAge momSmoke);
+ set bwg;
+ realMomAge = momAge + 25;
+run;
+```
+
 
 ### Estudio de variables independientes tablas de frecuencia, TTest:
 
-[PDF con resultados de TTest](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/04_TTest.pdf)
+Con:
+```
+ods graphics on;
+
+proc ttest data=bwgc;
+   var _numeric_;
+run;
+
+ods graphics off;
+
+```
+realizamos un TTest de todas las variables numericas ( [PDF con resultados de TTest](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/04_TTest.pdf) ) 
+
+Paso a estudiar cada variable:
 
 
 #### Black Mother
 ```
-proc freq data=bwg;
+proc freq data=bwgc;
 	table black;
 run;
 ```
@@ -135,28 +157,12 @@ run;
 |0	    |41858        |	83.72  |	41858         | 	83.72        |
 |1	    |8142	  |16.28       |	50000         |	    100.00           |
 
-No faltan valores (no hay missings) y se puede usar para el modelo. Es una variable categorica.
+No faltan valores (no hay missings) y se puede usar para el modelo. Es una variable categorica, y no puede ser ajustada a una normal.
 
-
-#### Baby Boy
-
-```
-proc freq data=bwg;
-	table boy;
-run;
-```
-
-|Boy|	Frecuencia|Porcentaje|Frecuencia acumulada|	Porcentaje acumulado|
-|---|-------------|------------|----------------------|----------------------|
-|0  |    24208    |	48.42  |	24208         |	48.42                |
-|1  |    25792    |	51.58  |	50000         |	100.00               |
-
-No faltan valores y se puede usar para el modelo.
-
-##### Mother is married
+#### Mother is married
 
 ```
-proc freq data=bwg;
+proc freq data=bwgc;
 	table married;
 run;
 ```
@@ -166,9 +172,82 @@ run;
 |0|	14369|	28.74|	14369|	28.74|
 |1|	35631|	71.26|	50000|	100.00|
 
-No faltan valores y se puede usar para el modelo.
+Este caso es similar al anterior. Es una variable dicotomica.
 
-##### Mother's Education Level
+
+#### Baby Boy
+
+```
+proc freq data=bwgc;
+	table boy;
+run;
+```
+
+|Boy|	Frecuencia|Porcentaje|Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|0  |    24208    |	48.42  |	24208         |	48.42                |
+|1  |    25792    |	51.58  |	50000         |	100.00               |
+
+No hay ningun missing, es una variable dicotomica y al 50% aprox.
+
+
+#### Cigarretes per day
+
+```
+proc freq data=bwgc;
+	table CigsPerDay;
+	run;
+```
+
+|CigsPerDay|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|0|	43467|	86.93|	43467|	86.93|
+|1|	206|	0.41|	43673|	87.35|
+|2|	309|	0.62|	43982|	87.96|
+|3|	387|	0.77|	44369|	88.74|
+|...|....   |...    |...       |...   |
+|50|	4|	0.01|	49998|	100.00|
+|60|	2|	0.00|	50000|	100.00|
+
+De nuevo no faltan valores, pero vemos que el casi el 87% de las observaciones son de no fumadoras, y sólo el 13% restante es de fumadoras. Lo podemos usar para el modelo, pero al ser tan pocos no sé seguro cuanto puede afectar al mismo. Por sentido comun el hecho de que fume la madre debería afectar al peso del bebe, pero hay que estudiarlo.
+
+#### Mother Weight Gain
+
+```
+proc freq data=bwgc;
+	table MomAge;
+	run;
+```
+
+|MomWtGain|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|-30|	598|	1.20|	598|	1.20|
+|-29|	56|	0.11|	654|	1.31|
+|...|....   |...    |...       |...   |
+|64|	1|	0.00|	49977|	99.95|
+|66|	1|	0.00|	49978|	99.96|
+|68|	22|	0.04|	50000|	100.00|
+
+No faltan ningun valor, lo podemos usar para el modelo. Pero presenta una distribución extraña, habiendo muchos más valores concentrados en multiplos de 5. Probablemente sea un error a la toma de los datos en el sentido de que se han redondeado. Por ello voy a generar otro conjunto de datos con los valores en grupos de 5 libras y realizaré el estudio con ambos modelos.
+
+#### Mom Prenatal Visit
+```
+proc freq data=bwg;
+	table Visit;
+run;
+```
+
+|Visit|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|0|	403|	0.81|	403|	0.81|
+|1|	6339|	12.68|	6742|	13.48|
+|2|	1114|	2.23|	7856|	15.71|
+|3|	42144|	84.29|	50000|	100.00|
+
+No faltan valores y se puede usar para el modelo. Es una variable con 4 categorias distintas.
+
+
+#### Mother's Education Level
 
 ```
 proc freq data=bwg;
@@ -185,26 +264,12 @@ run;
 |3	    |	7973    |      15.95|               50000|		100.00|
 
 
-No faltan valores y se puede usar para el modelo.
-
-##### Mom Prenatal Visit
-```
-proc freq data=bwg;
-	table Visit;
-run;
-```
-
-|Visit|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
-|---|-------------|------------|----------------------|----------------------|
-|0|	403|	0.81|	403|	0.81|
-|1|	6339|	12.68|	6742|	13.48|
-|2|	1114|	2.23|	7856|	15.71|
-|3|	42144|	84.29|	50000|	100.00|
-
-No faltan valores y se puede usar para el modelo.
+No faltan valores y se puede usar para el modelo. Es una variable con 4 categorias distintas.
 
 
-##### Mothers age
+
+
+#### Mothers age
 
 ```
 proc freq data=bwg;
@@ -214,88 +279,19 @@ proc freq data=bwg;
 
 |MomAge|Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
 |---|-------------|------------|----------------------|----------------------|
-|-9|	1824|	3.65|	1824	|3.65 |
-|-8|	2420|	4.84|	4244	|8.49|
-|-7|	2588|	5.18|	6832	|13.66|
-|-6|	2521|	5.04|	9353	|18.71|
-|-5|	2590|	5.18|	11943	|23.89|
+|16|	1824|	3.65|	1824	|3.65 |
+|17|	2420|	4.84|	4244	|8.49|
+|18|	2588|	5.18|	6832	|13.66|
+|19|	2521|	5.04|	9353	|18.71|
+|20|	2590|	5.18|	11943	|23.89|
 |...|....   |...    |...       |...   |
-|17|	44|	0.09|	49974|	99.95|
-|18|	26|	0.05|	50000|	100.00|
+|42|	44|	0.09|	49974|	99.95|
+|43|	26|	0.05|	50000|	100.00|
 
-No faltan ningun valor, lo podemos usar para el modelo
-
-##### Cigarretes per day
-
-```
-proc freq data=bwg;
-	table CigsPerDay;
-	run;
-```
-
-|CigsPerDay|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
-|---|-------------|------------|----------------------|----------------------|
-|0|	43467|	86.93|	43467|	86.93|
-|1|	206|	0.41|	43673|	87.35|
-|2|	309|	0.62|	43982|	87.96|
-|3|	387|	0.77|	44369|	88.74|
-|...|....   |...    |...       |...   |
-|50|	4|	0.01|	49998|	100.00|
-|60|	2|	0.00|	50000|	100.00|
-
-No faltan ningun valor, lo podemos usar para el modelo.
-
-##### Mother Weight Gain
-
-```
-proc freq data=bwg;
-	table MomAge;
-	run;
-```
-
-|MomWtGain|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
-|---|-------------|------------|----------------------|----------------------|
-|-30|	598|	1.20|	598|	1.20|
-|-29|	56|	0.11|	654|	1.31|
-|...|....   |...    |...       |...   |
-|64|	1|	0.00|	49977|	99.95|
-|66|	1|	0.00|	49978|	99.96|
-|68|	22|	0.04|	50000|	100.00|
-
-No faltan ningun valor, lo podemos usar para el modelo
+No faltan ningun valor, lo podemos usar para el modelo. La distribución no es normal en su cola de ascenso, se aproxima bastante en su cola de descenso. Hay que tener en cuenta que la edad fertil de la mujer es muy dependiente de su biologia, y aunque en edades tempranas es más probable que se quede embarazada (si no pone medios en contra), mientras que según pasa el tiempo influyen otros valores.
 
 
 
-proc means data=bwg;
-var MomAge CigsPerDay Momwtgain;
-run;
-
-
-
-proc univariate data=bwg normal plot;
-	var MomAge CigsPerDay MomWtGain;
-run;
-
-/* Del analisis univariate de CigsPerDay podemos considerar la variable CigsPerDay más como una variable categorica, en la que haremos grupos 
- para las distintas cantidades de cigarrilos. 
-  */;
-
-
-
-
-
-
-
-
-
-
-proc freq data=bwg;
-	table MomSmoke;
-run;
-
-
-
-/* No hay variables sin observaciones, con lo no es necesario descartar nada */;
 
 
 proc corr data=bwg;
