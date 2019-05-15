@@ -114,12 +114,39 @@ run;
 
 ![Corr_Cigs_Smoke](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/03_corr.png)
 
-Podemos eliminar una de las dos del conjunto de datos a estudiar. Ya que `CigsPerDay`da más datos que `MomSmoke`, eliminiamos MomSmoke.
+Podemos eliminar una de las dos del conjunto de datos a estudiar. Ya que `CigsPerDay`da más datos que `MomSmoke`, eliminamos MomSmoke.
 
 
-### Estudio de variables categoricas
+### Estudio de variables independientes tablas de frecuencia:
+
+#### Categoricas
 Son Black, Boy, Married, MomEdLevel, MomSmoke, Visit
 
+##### Black Mother
+```
+proc freq data=bwg;
+	table black;
+run;
+```
+
+
+|  Black    | Frecuencia  | Porcentaje | Frecuencia acumulada |	Porcentaje acumulado |
+|-----------|-------------|------------|----------------------|----------------------|
+|0	    |41858        |	83.72  |	41858         | 	83.72        |
+|1	    |8142	  |16.28       |	50000         |	    100.00           |
+
+##### Baby Boy
+
+```
+proc freq data=bwg;
+	table boy;
+run;
+```
+
+|Boy|	Frecuencia|Porcentaje|Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|0  |    24208    |	48.42  |	24208         |	48.42                |
+|1  |    25792    |	51.58  |	50000         |	100.00               |
 
 
 safari* 
@@ -135,6 +162,8 @@ proc means data=bwg;
 var MomAge CigsPerDay Momwtgain;
 run;
 
+
+
 proc univariate data=bwg normal plot;
 	var MomAge CigsPerDay MomWtGain;
 run;
@@ -144,13 +173,9 @@ run;
   */;
 
 
-proc freq data=bwg;
-	table black;
-run;
 
-proc freq data=bwg;
-	table boy;
-run;
+
+
 
 proc freq data=bwg;
 	table married;
