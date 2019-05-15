@@ -120,7 +120,7 @@ Podemos eliminar una de las dos del conjunto de datos a estudiar. Ya que `CigsPe
 ### Estudio de variables independientes tablas de frecuencia:
 
 #### Categoricas
-Son Black, Boy, Married, MomEdLevel, MomSmoke, Visit
+Son Black, Boy, Married, MomEdLevel, Visit
 
 ##### Black Mother
 ```
@@ -135,6 +135,9 @@ run;
 |0	    |41858        |	83.72  |	41858         | 	83.72        |
 |1	    |8142	  |16.28       |	50000         |	    100.00           |
 
+No faltan valores (no hay missings) y se puede usar para el modelo.
+
+
 ##### Baby Boy
 
 ```
@@ -148,14 +151,119 @@ run;
 |0  |    24208    |	48.42  |	24208         |	48.42                |
 |1  |    25792    |	51.58  |	50000         |	100.00               |
 
+No faltan valores y se puede usar para el modelo.
 
-safari* 
- * Numericas
- * ---------
- * MomAge
- * CigsPerDay
- * MomWtGain
-*/;
+##### Mother is married
+
+```
+proc freq data=bwg;
+	table married;
+run;
+```
+
+|Married|	Frecuencia|Porcentaje|Frecuencia acumulada|Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|0|	14369|	28.74|	14369|	28.74|
+|1|	35631|	71.26|	50000|	100.00|
+
+No faltan valores y se puede usar para el modelo.
+
+##### Mother's Education Level
+
+```
+proc freq data=bwg;
+	table MomEdLevel;
+run;
+```
+
+
+|MomEdLevel |Frecuencia	|Porcentaje |Frecuencia acumulada|Porcentaje acumulado|
+|-----------|-----------|-----------|--------------------|--------------------|
+|0          |	17449   |      34.90|	     	    17449|		 34.90|
+|1	    |	12129   |      24.26|		    29578|		 59.16|
+|2	    |	12449   |      24.90|		    42027|		 84.05|
+|3	    |	7973    |      15.95|               50000|		100.00|
+
+
+No faltan valores y se puede usar para el modelo.
+
+##### Mom Prenatal Visit
+```
+proc freq data=bwg;
+	table Visit;
+run;
+```
+
+|Visit|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|0|	403|	0.81|	403|	0.81|
+|1|	6339|	12.68|	6742|	13.48|
+|2|	1114|	2.23|	7856|	15.71|
+|3|	42144|	84.29|	50000|	100.00|
+
+No faltan valores y se puede usar para el modelo.
+
+
+##### Mothers age
+
+```
+proc freq data=bwg;
+	table MomAge;
+	run;
+```
+
+|MomAge|Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|-9|	1824|	3.65|	1824	|3.65 |
+|-8|	2420|	4.84|	4244	|8.49|
+|-7|	2588|	5.18|	6832	|13.66|
+|-6|	2521|	5.04|	9353	|18.71|
+|-5|	2590|	5.18|	11943	|23.89|
+|...|....   |...    |...       |...   |
+|17|	44|	0.09|	49974|	99.95|
+|18|	26|	0.05|	50000|	100.00|
+
+No faltan ningun valor, lo podemos usar para el modelo
+
+##### Cigarretes per day
+
+```
+proc freq data=bwg;
+	table CigsPerDay;
+	run;
+```
+
+|CigsPerDay|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|0|	43467|	86.93|	43467|	86.93|
+|1|	206|	0.41|	43673|	87.35|
+|2|	309|	0.62|	43982|	87.96|
+|3|	387|	0.77|	44369|	88.74|
+|...|....   |...    |...       |...   |
+|50|	4|	0.01|	49998|	100.00|
+|60|	2|	0.00|	50000|	100.00|
+
+No faltan ningun valor, lo podemos usar para el modelo.
+
+##### Mother Weight Gain
+
+```
+proc freq data=bwg;
+	table MomAge;
+	run;
+```
+
+|MomWtGain|	Frecuencia|	Porcentaje|	Frecuencia acumulada|	Porcentaje acumulado|
+|---|-------------|------------|----------------------|----------------------|
+|-30|	598|	1.20|	598|	1.20|
+|-29|	56|	0.11|	654|	1.31|
+|...|....   |...    |...       |...   |
+|64|	1|	0.00|	49977|	99.95|
+|66|	1|	0.00|	49978|	99.96|
+|68|	22|	0.04|	50000|	100.00|
+
+No faltan ningun valor, lo podemos usar para el modelo
+
 
 
 proc means data=bwg;
@@ -177,21 +285,15 @@ run;
 
 
 
-proc freq data=bwg;
-	table married;
-run;
 
-proc freq data=bwg;
-	table MomEdLevel;
-run;
+
+
 
 proc freq data=bwg;
 	table MomSmoke;
 run;
 
-proc freq data=bwg;
-	table Visit;
-run;
+
 
 /* No hay variables sin observaciones, con lo no es necesario descartar nada */;
 
