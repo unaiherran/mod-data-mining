@@ -119,11 +119,10 @@ Podemos eliminar una de las dos del conjunto de datos a estudiar. Ya que `CigsPe
 
 ### Estudio de variables independientes tablas de frecuencia, TTest:
 
+[PDF con resultados de TTest](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/04_TTest.pdf)
 
-#### Categoricas
-Son Black, Boy, Married, MomEdLevel, Visit
 
-##### Black Mother
+#### Black Mother
 ```
 proc freq data=bwg;
 	table black;
@@ -136,10 +135,10 @@ run;
 |0	    |41858        |	83.72  |	41858         | 	83.72        |
 |1	    |8142	  |16.28       |	50000         |	    100.00           |
 
-No faltan valores (no hay missings) y se puede usar para el modelo.
+No faltan valores (no hay missings) y se puede usar para el modelo. Es una variable categorica.
 
 
-##### Baby Boy
+#### Baby Boy
 
 ```
 proc freq data=bwg;
