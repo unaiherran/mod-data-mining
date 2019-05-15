@@ -34,7 +34,7 @@ run;
 # Analisis de la variable objetivo
 
 
-Si hacemos un estudio de frecuencias de la variable objetivo (peso del bebe al nacer) vemos que hay no es una variable de clase sino una numeríca
+Si hacemos un estudio de frecuencias de la variable objetivo (peso del bebe al nacer) vemos que hay no es una variable de clase sino una numérica
 
 ```
 proc freq data=bwg;
@@ -44,18 +44,14 @@ run;
 
 Con lo que analizamos la media, así como la gráfica y los test estadisticos para demostrar la normalidad.
 
-´´´
+```
 proc means data=bwg;
 	var weight;
 run;
-´´´
+```
+Vemos que tenemos 50000 observaciones con 10 variables.
 
-´´´
-proc gchart data=bwg;
- vbar weight;
-run;
-´´´
-
+```
 /*  NOTE: There were 50000 observations read from the data set SASHELP.BWEIGHT.
  NOTE: The data set WORK.BWG has 50000 observations and 10 variables. 
  
@@ -63,6 +59,15 @@ run;
 	N	Media	Desv. est.	Mínimo	Máximo
 50000	3370.76	566.3850556	240.00	6350.00
  */;
+```
+
+```
+proc gchart data=bwg;
+ vbar weight;
+run;
+```
+
+
 
 ´´´
 /*Analisis Normalidad de la variable objetivo*/;
