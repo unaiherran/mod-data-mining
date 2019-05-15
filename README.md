@@ -35,13 +35,14 @@ run;
 
 
 Si hacemos un estudio de frecuencias de la variable objetivo (peso del bebe al nacer) vemos que hay no es una variable de clase sino una numeríca
+
 ```
 proc freq data=bwg;
 	tables weight;
 run;
 ```
 
-Con lo que analizamos la media, así como la gráfica u los test estadisticos para demostrar la normalidad.
+Con lo que analizamos la media, así como la gráfica y los test estadisticos para demostrar la normalidad.
 
 ´´´
 proc means data=bwg;
