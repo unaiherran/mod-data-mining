@@ -80,6 +80,8 @@ run;
 
 
 ## Data Cooking:
+
+### Duplicados
 Empezamos con 50000 observaciones y 10 variables. Podriamos eliminar duplicados con:
 
 ```
@@ -87,11 +89,12 @@ proc sort data=bwg out=B dupout=C nodupkey; By _all_ ; run;
 ```
 Pero considero que no son datos duplicados, sino dos observaciones distintas de eventos distintos con exactamente los mismos valores en todas las variables.
 
+### Logica previa en los datos
+
 La variable MomSmoke es 0 si la madre no fuma y 1 si lo hace. Además tenemos la variable numero de cigarrilos al dia. Antes de nada hacemos una comprobacion básica de si hay error en los datos y se ha indicado que una mujer fuma pero luego toma 0 cigarrillos al día o al contrario, la observacion dice que no fuma pero luego consume mas de 0 cigarrilos al día:
 
 ```data bwgDummy (keep = alerta);
  set bwg;
- /* Para comprobar que no hay algun error basisco en la entrada de datos, es decir que no hay nadie que diga que no fuma y si que tiene cigarrillos */;
 	if cigsperDay = 0 and MomSmoke = 1 then alerta=1;
 	else
 	if cigsperDay> 0 and MomSmoke = 0 then alerta=2;
@@ -109,18 +112,17 @@ proc corr data=bwg;
 run;
 ```
 
+![Corr_Cigs_Smoke](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/03_corr.png)
+
+Podemos eliminar una de las dos del conjunto de datos a estudiar. Ya que `CigsPerDay`da más datos que `MomSmoke`, eliminiamos MomSmoke.
 
 
- 
- * Categoricas
- * -----------
- * Black
- * Boy
- * Married
- * MomEdLevel
- * MomSmoke
- * Visit
- * 
+### Estudio de variables categoricas
+Son Black, Boy, Married, MomEdLevel, MomSmoke, Visit
+
+
+
+safari* 
  * Numericas
  * ---------
  * MomAge
