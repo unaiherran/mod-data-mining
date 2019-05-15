@@ -1,5 +1,4 @@
-# mod-data-mining
-# Modulo Data Mining
+# Práctica Modulo Data Mining
 ## KC BD 3
 
 El modelo de los datos es el siguiente:
@@ -18,34 +17,43 @@ El modelo de los datos es el siguiente:
   Visit      -> Prenatal Visit 		-> Visita prenatal (de 0 a 3, siendo el 0 ninguna visita) 
   
   Variable dependiente u Objetivo:
-  weight 	  -> Baby Weight			 -> Peso del Bebe
+  weight     -> Baby Weight		-> Peso del Bebe
  
 ```
 
 ## Carga de datos
 
+Para cargar los datos se pueden usar tanto los datos de suminsitrados por la practica como los de la libreria sashelp.bweight, ya que son los mismos.
 
-
-
+```
 data bwg;
   set sashelp.bweight;
 run;
+```
 
-/* Analisis de objetivo */;
+# Analisis de la variable objetivo
 
+
+Si hacemos un estudio de frecuencias de la variable objetivo (peso del bebe al nacer) vemos que hay no es una variable de clase sino una numeríca
+```
 proc freq data=bwg;
 	tables weight;
 run;
+```
 
-/* Es una variable númerica, con lo que tenemos que aplicar modelos GLM */
+Con lo que analizamos la media, así como la gráfica u los test estadisticos para demostrar la normalidad.
 
+´´´
 proc means data=bwg;
 	var weight;
 run;
+´´´
 
+´´´
 proc gchart data=bwg;
  vbar weight;
 run;
+´´´
 
 /*  NOTE: There were 50000 observations read from the data set SASHELP.BWEIGHT.
  NOTE: The data set WORK.BWG has 50000 observations and 10 variables. 
@@ -55,12 +63,14 @@ run;
 50000	3370.76	566.3850556	240.00	6350.00
  */;
 
+´´´
 /*Analisis Normalidad de la variable objetivo*/;
 proc univariate data=bwg normal plot;
  var weight;
  HISTOGRAM /NORMAL(COLOR=MAROON W=4) CFILL = BLUE CFRAME = LIGR;
  INSET MEAN STD /CFILL=BLANK FORMAT=5.2;
 run;
+´´´
 
 
 /* Data Cooking:
