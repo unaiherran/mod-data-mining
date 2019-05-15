@@ -50,7 +50,7 @@ proc means data=bwg;
 run;
 ```
 
-![grafico barras weight](https://raw.githubusercontent.com/unaiherran/mod-data-mining/blob/master/img/01_proc_means.png)
+![proc_means](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/01_proc_means.png)
 
 Vemos que tenemos 50000 observaciones con 10 variables.
 
