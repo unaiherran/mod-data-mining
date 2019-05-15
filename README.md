@@ -31,7 +31,7 @@ data bwg;
 run;
 ```
 
-# Analisis de la variable objetivo
+## Analisis de la variable objetivo
 
 
 Si hacemos un estudio de frecuencias de la variable objetivo (peso del bebe al nacer) vemos que no es una variable de clase sino una numérica y continua.
@@ -79,9 +79,37 @@ run;
 ![univariate](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/02_univariate.png)
 
 
-/* Data Cooking:
-*  -------------
-*  Empezamos con 50000 observaciones y 10 variables:
+## Data Cooking:
+Empezamos con 50000 observaciones y 10 variables. Podriamos eliminar duplicados con:
+
+```
+proc sort data=bwg out=B dupout=C nodupkey; By _all_ ; run;
+```
+Pero considero que no son datos duplicados, sino dos observaciones distintas de eventos distintos con exactamente los mismos valores en todas las variables.
+
+La variable MomSmoke es 0 si la madre no fuma y 1 si lo hace. Además tenemos la variable numero de cigarrilos al dia. Antes de nada hacemos una comprobacion básica de si hay error en los datos y se ha indicado que una mujer fuma pero luego toma 0 cigarrillos al día o al contrario, la observacion dice que no fuma pero luego consume mas de 0 cigarrilos al día:
+
+```data bwgDummy (keep = alerta);
+ set bwg;
+ /* Para comprobar que no hay algun error basisco en la entrada de datos, es decir que no hay nadie que diga que no fuma y si que tiene cigarrillos */;
+	if cigsperDay = 0 and MomSmoke = 1 then alerta=1;
+	else
+	if cigsperDay> 0 and MomSmoke = 0 then alerta=2;
+	else alerta=0;
+run;
+
+proc freq data=bwgDummy;
+run;
+```
+
+La simple lógica nos dice que estas variables tienen que estar relacionadas, pero aun así realizamos un estudio de correlación entre ambas:
+```
+proc corr data=bwg;
+ var MomSmoke cigsperday;
+run;
+```
+
+
 
  
  * Categoricas
