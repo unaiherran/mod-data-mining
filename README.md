@@ -7,15 +7,15 @@ El modelo de los datos es el siguiente:
 ```
   Variables independientes:
   
-  Black      -> Black Mother 			-> Madre de color (1 si, 0 no)
-  Boy        -> Baby Boy 				-> Bebé (1 niño, 0 niña)
-  CigsPerDay -> Cigarettes Per Day 	    -> Número de Cigarrillos por día
-  Married    -> Married Mother 		    -> Madre casada (1 si, 0 no)
-  MomAge     -> Mother's Age 			-> Edad de la madre (equivale el 0 a tener 25 años)
-  MomEdLevel -> Mother's Education 	    -> Level Nivel de educación de la madre (de 0 a 3, siendo 0 nada)
-  MomSmoke   -> Smoking Mother 	 	    -> Madre fumadora (1 si, 0 no)
+  Black      -> Black Mother 		-> Madre de color (1 si, 0 no)
+  Boy        -> Baby Boy 		-> Bebé (1 niño, 0 niña)
+  CigsPerDay -> Cigarettes Per Day 	-> Número de Cigarrillos por día
+  Married    -> Married Mother 		-> Madre casada (1 si, 0 no)
+  MomAge     -> Mother's Age 		-> Edad de la madre (equivale el 0 a tener 25 años)
+  MomEdLevel -> Mother's Education 	-> Level Nivel de educación de la madre (de 0 a 3, siendo 0 nada)
+  MomSmoke   -> Smoking Mother 	 	-> Madre fumadora (1 si, 0 no)
   MomWtGain  -> Mother's Preg Wght Gain -> Embarazo de la madre pérdida/aumento de peso
-  Visit      -> Prenatal Visit 		    -> Visita prenatal (de 0 a 3, siendo el 0 ninguna visita) 
+  Visit      -> Prenatal Visit 		-> Visita prenatal (de 0 a 3, siendo el 0 ninguna visita) 
   
   Variable dependiente u Objetivo:
   weight 	  -> Baby Weight			 -> Peso del Bebe
