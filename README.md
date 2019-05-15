@@ -34,7 +34,7 @@ run;
 # Analisis de la variable objetivo
 
 
-Si hacemos un estudio de frecuencias de la variable objetivo (peso del bebe al nacer) vemos que hay no es una variable de clase sino una numérica
+Si hacemos un estudio de frecuencias de la variable objetivo (peso del bebe al nacer) vemos que no es una variable de clase sino una numérica y continua.
 
 ```
 proc freq data=bwg;
@@ -49,6 +49,9 @@ proc means data=bwg;
 	var weight;
 run;
 ```
+
+![grafico barras weight](https://raw.githubusercontent.com/unaiherran/mod-data-mining/blob/master/img/01_proc_means.png)
+
 Vemos que tenemos 50000 observaciones con 10 variables.
 
 ```
