@@ -68,18 +68,15 @@ Vemos que tenemos 50000 observaciones con 10 variables.
 proc gchart data=bwg;
  vbar weight;
 run;
-```
 
-
-
-´´´
 /*Analisis Normalidad de la variable objetivo*/;
 proc univariate data=bwg normal plot;
  var weight;
  HISTOGRAM /NORMAL(COLOR=MAROON W=4) CFILL = BLUE CFRAME = LIGR;
  INSET MEAN STD /CFILL=BLANK FORMAT=5.2;
 run;
-´´´
+```
+![univariate](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/02_univarate.png)
 
 
 /* Data Cooking:
