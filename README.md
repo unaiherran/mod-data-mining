@@ -117,7 +117,8 @@ run;
 Podemos eliminar una de las dos del conjunto de datos a estudiar. Ya que `CigsPerDay`da más datos que `MomSmoke`, eliminamos MomSmoke.
 
 
-### Estudio de variables independientes tablas de frecuencia:
+### Estudio de variables independientes tablas de frecuencia, TTest:
+
 
 #### Categoricas
 Son Black, Boy, Married, MomEdLevel, Visit
