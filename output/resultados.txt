@@ -1,561 +1,561 @@
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,277951 ,12300 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,284590 ,12301 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,293586 ,12302 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,290685 ,12303 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,281871 ,12304 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,285691 ,12305 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288696 ,12306 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,289183 ,12307 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,283276 ,12308 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,297138 ,12309 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,296208 ,12310 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,287691 ,12311 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291112 ,12312 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291925 ,12313 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,289262 ,12314 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,278906 ,12315 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,285633 ,12316 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,293585 ,12317 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288737 ,12318 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291440 ,12319 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290060 ,12320 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,279751 ,12321 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,281936 ,12322 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,289766 ,12323 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,282244 ,12324 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,285219 ,12325 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,280361 ,12326 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290641 ,12327 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,282006 ,12328 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,282739 ,12329 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291357 ,12330 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288728 ,12331 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,284677 ,12332 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291509 ,12333 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,284959 ,12334 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,287668 ,12335 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,294607 ,12336 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,275810 ,12337 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,279670 ,12338 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,277897 ,12339 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,287027 ,12340 , stepwise, SV
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,283715 ,12341 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288948 ,12342 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290970 ,12343 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291627 ,12344 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,284757 ,12345 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,294748 ,12346 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,289233 ,12347 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,286556 ,12348 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290368 ,12349 , stepwise, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,282127 ,12350 , stepwise, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281836 ,12300 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286846 ,12301 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,295968 ,12302 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288580 ,12303 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281570 ,12304 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288288 ,12305 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286949 ,12306 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286239 ,12307 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284185 ,12308 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,294893 ,12309 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288552 ,12310 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286653 ,12311 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,290561 ,12312 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,293321 ,12313 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292328 ,12314 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284447 ,12315 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282947 ,12316 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,294205 ,12317 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288239 ,12318 , stepwise, S
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291193 ,12319 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292910 ,12320 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282959 ,12321 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284807 ,12322 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292109 ,12323 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,289119 ,12324 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282994 ,12325 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,283245 ,12326 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292823 ,12327 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282527 ,12328 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291405 ,12329 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,290598 ,12330 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,285206 ,12331 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,287429 ,12332 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291976 ,12333 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,287300 ,12334 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286116 ,12335 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,295261 ,12336 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281499 ,12337 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281597 ,12338 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284243 ,12339 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,280068 ,12340 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,285629 ,12341 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,289783 ,12342 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291410 ,12343 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284358 ,12344 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,285291 ,12345 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,296338 ,12346 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,283862 ,12347 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,289392 ,12348 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291457 ,12349 , stepwise, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284279 ,12350 , stepwise, S
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279093 ,12300 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285093 ,12301 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,294456 ,12302 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291419 ,12303 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282443 ,12304 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287039 ,12305 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289396 ,12306 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289677 ,12307 , stepwise, AV
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,284027 ,12308 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,298125 ,12309 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,297237 ,12310 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,288243 ,12311 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291353 ,12312 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292296 ,12313 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289807 ,12314 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,279031 ,12315 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,286416 ,12316 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,294115 ,12317 , stepwise, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,289083 ,12318 , stepwise, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291813 ,12319 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290840 ,12320 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279925 ,12321 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,283147 ,12322 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290800 ,12323 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,283020 ,12324 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,285639 ,12325 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,280897 ,12326 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291276 ,12327 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282774 ,12328 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,283113 ,12329 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291565 ,12330 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289288 ,12331 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,284921 ,12332 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292287 ,12333 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285002 ,12334 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287743 ,12335 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,295390 ,12336 , stepwise, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,276498 ,12337 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279965 ,12338 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,278929 ,12339 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287567 ,12340 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,284635 ,12341 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289653 ,12342 , stepwise, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291770 ,12343 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292436 ,12344 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285823 ,12345 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,295500 ,12346 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289412 ,12347 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287192 ,12348 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290843 ,12349 , stepwise, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282490 ,12350 , stepwise, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,282388 ,12300 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,287300 ,12301 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,296457 ,12302 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288698 ,12303 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,282022 ,12304 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288736 ,12305 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287420 ,12306 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,286522 ,12307 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284667 ,12308 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,295438 ,12309 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,289054 ,12310 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,287206 ,12311 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,290897 ,12312 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293774 ,12313 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292651 ,12314 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284783 ,12315 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,283312 ,12316 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,294559 ,12317 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288550 ,12318 ,stepwise,A
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291646 ,12319 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293309 ,12320 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283192 ,12321 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285247 ,12322 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292668 ,12323 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289414 ,12324 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283127 ,12325 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283531 ,12326 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293133 ,12327 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283057 ,12328 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291675 ,12329 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291016 ,12330 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285578 ,12331 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287650 ,12332 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292293 ,12333 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287626 ,12334 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,286538 ,12335 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,295656 ,12336 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,281770 ,12337 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,282001 ,12338 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284817 ,12339 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,280249 ,12340 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,285769 ,12341 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,290064 ,12342 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291761 ,12343 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,284752 ,12344 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,285777 ,12345 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,296732 ,12346 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284209 ,12347 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289881 ,12348 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291733 ,12349 ,stepwise,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284732 ,12350 ,stepwise,A
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,281934 ,12300 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,286816 ,12301 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,295945 ,12302 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,288546 ,12303 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,281555 ,12304 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,288283 ,12305 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,286967 ,12306 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,286213 ,12307 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,284191 ,12308 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,294921 ,12309 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,288556 ,12310 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,286672 ,12311 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,290515 ,12312 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,293304 ,12313 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,292305 ,12314 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,284426 ,12315 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,283076 ,12316 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,294172 ,12317 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,288233 ,12318 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,291380 ,12319 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,292924 ,12320 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,283006 ,12321 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,284797 ,12322 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,292081 ,12323 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,289123 ,12324 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,282971 ,12325 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,283217 ,12326 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,292976 ,12327 , Backward, S
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282533 ,12328 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,291399 ,12329 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,290580 ,12330 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,285216 ,12331 , Backward, S
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,287437 ,12332 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,291943 ,12333 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,287317 ,12334 , Backward, S
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286114 ,12335 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,295232 ,12336 , Backward, S
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281487 ,12337 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,281591 ,12338 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,284238 ,12339 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,280080 ,12340 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,285598 ,12341 , Backward, S
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,289707 ,12342 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,291399 ,12343 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,284402 ,12344 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,285316 ,12345 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,296421 ,12346 , Backward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,283862 ,12347 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,289366 ,12348 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,291442 ,12349 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain ,284250 ,12350 , Backward, S
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279093 ,12300 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285093 ,12301 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,294437 ,12302 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291419 ,12303 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282443 ,12304 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287039 ,12305 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289329 ,12306 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289677 ,12307 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,284342 ,12308 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,298125 ,12309 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,297237 ,12310 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,288256 ,12311 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291320 ,12312 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292292 ,12313 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289807 ,12314 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279035 ,12315 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,286416 ,12316 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,294115 ,12317 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289096 ,12318 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291996 ,12319 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290840 ,12320 , Backward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279925 ,12321 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,283115 ,12322 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290800 ,12323 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282995 ,12324 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285413 ,12325 , Backward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,280897 ,12326 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291247 ,12327 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282768 ,12328 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,283126 ,12329 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291563 ,12330 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289288 ,12331 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,284913 ,12332 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292287 ,12333 , Backward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285002 ,12334 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287734 ,12335 , Backward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,295390 ,12336 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,276507 ,12337 , Backward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279965 ,12338 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,278929 ,12339 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287567 ,12340 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,284626 ,12341 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289653 ,12342 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291797 ,12343 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292436 ,12344 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285791 ,12345 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,295496 ,12346 , Backward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289412 ,12347 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287158 ,12348 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290819 ,12349 , Backward, AV
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282490 ,12350 , Backward, AV
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,282472 ,12300 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287315 ,12301 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,296457 ,12302 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288680 ,12303 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,282016 ,12304 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288736 ,12305 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287397 ,12306 ,Backward,A
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,286525 ,12307 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284659 ,12308 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,295448 ,12309 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289121 ,12310 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287301 ,12311 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,290865 ,12312 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293771 ,12313 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292663 ,12314 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284780 ,12315 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283379 ,12316 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,294559 ,12317 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288550 ,12318 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291811 ,12319 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293309 ,12320 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283192 ,12321 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285243 ,12322 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292668 ,12323 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289414 ,12324 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283127 ,12325 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283531 ,12326 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293131 ,12327 ,Backward,A
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283057 ,12328 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291675 ,12329 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291016 ,12330 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285578 ,12331 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287632 ,12332 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292293 ,12333 ,Backward,A
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287626 ,12334 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,286538 ,12335 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,295656 ,12336 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,281758 ,12337 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,282001 ,12338 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284817 ,12339 ,Backward,A
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,280257 ,12340 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285865 ,12341 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289985 ,12342 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291769 ,12343 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284864 ,12344 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285785 ,12345 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,296732 ,12346 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284209 ,12347 ,Backward,A
-Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289881 ,12348 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291733 ,12349 ,Backward,A
-Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284732 ,12350 ,Backward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,277951 ,12300 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,284590 ,12301 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,293586 ,12302 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,290685 ,12303 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,281871 ,12304 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,285691 ,12305 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288696 ,12306 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,289183 ,12307 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,283276 ,12308 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,297138 ,12309 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,296208 ,12310 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,287691 ,12311 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291112 ,12312 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291925 ,12313 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,289262 ,12314 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,278906 ,12315 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,285633 ,12316 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,293585 ,12317 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288737 ,12318 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291440 ,12319 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290060 ,12320 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,279751 ,12321 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,281936 ,12322 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,289766 ,12323 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,282244 ,12324 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,285219 ,12325 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,280361 ,12326 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290641 ,12327 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,282006 ,12328 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,282739 ,12329 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291357 ,12330 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288728 ,12331 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,284677 ,12332 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291509 ,12333 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,284959 ,12334 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,287668 ,12335 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,294607 ,12336 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,275810 ,12337 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,279670 ,12338 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,277897 ,12339 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,287027 ,12340 , Forward, SV
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,283715 ,12341 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,288948 ,12342 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290970 ,12343 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,291627 ,12344 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit ,284757 ,12345 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,294748 ,12346 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,289233 ,12347 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,286556 ,12348 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,290368 ,12349 , Forward, SV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit ,282127 ,12350 , Forward, SV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281836 ,12300 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286846 ,12301 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,295968 ,12302 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288580 ,12303 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281570 ,12304 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288288 ,12305 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286949 ,12306 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286239 ,12307 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284185 ,12308 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,294893 ,12309 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288552 ,12310 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286653 ,12311 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,290561 ,12312 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,293321 ,12313 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292328 ,12314 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284447 ,12315 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282947 ,12316 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,294205 ,12317 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,288239 ,12318 , Forward, S
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291193 ,12319 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292910 ,12320 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282959 ,12321 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284807 ,12322 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292109 ,12323 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,289119 ,12324 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282994 ,12325 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,283245 ,12326 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,292823 ,12327 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,282527 ,12328 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291405 ,12329 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,290598 ,12330 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,285206 ,12331 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,287429 ,12332 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291976 ,12333 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,287300 ,12334 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,286116 ,12335 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,295261 ,12336 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281499 ,12337 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,281597 ,12338 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284243 ,12339 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,280068 ,12340 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,285629 ,12341 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,289783 ,12342 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291410 ,12343 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284358 ,12344 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,285291 ,12345 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,296338 ,12346 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,283862 ,12347 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,289392 ,12348 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,291457 ,12349 , Forward, S
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy ,284279 ,12350 , Forward, S
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279093 ,12300 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285093 ,12301 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,294456 ,12302 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291419 ,12303 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282443 ,12304 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287039 ,12305 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289396 ,12306 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289677 ,12307 , Forward, AV
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,284027 ,12308 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,298125 ,12309 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,297237 ,12310 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,288243 ,12311 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291353 ,12312 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292296 ,12313 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289807 ,12314 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,279031 ,12315 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,286416 ,12316 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,294115 ,12317 , Forward, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,289083 ,12318 , Forward, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291813 ,12319 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290840 ,12320 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279925 ,12321 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,283147 ,12322 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290800 ,12323 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,283020 ,12324 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,285639 ,12325 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,280897 ,12326 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,291276 ,12327 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282774 ,12328 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,283113 ,12329 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291565 ,12330 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289288 ,12331 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,284921 ,12332 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292287 ,12333 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285002 ,12334 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287743 ,12335 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,295390 ,12336 , Forward, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,276498 ,12337 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,279965 ,12338 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,278929 ,12339 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287567 ,12340 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,284635 ,12341 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289653 ,12342 , Forward, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291770 ,12343 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,292436 ,12344 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,285823 ,12345 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,295500 ,12346 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,289412 ,12347 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,287192 ,12348 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,290843 ,12349 , Forward, AV
-Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit ,282490 ,12350 , Forward, AV
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,282388 ,12300 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,287300 ,12301 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,296457 ,12302 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288698 ,12303 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,282022 ,12304 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288736 ,12305 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287420 ,12306 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,286522 ,12307 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284667 ,12308 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,295438 ,12309 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,289054 ,12310 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,287206 ,12311 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,290897 ,12312 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293774 ,12313 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292651 ,12314 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284783 ,12315 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,283312 ,12316 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,294559 ,12317 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,288550 ,12318 ,Forward,A
-Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,291646 ,12319 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293309 ,12320 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283192 ,12321 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285247 ,12322 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292668 ,12323 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289414 ,12324 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283127 ,12325 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283531 ,12326 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,293133 ,12327 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,283057 ,12328 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291675 ,12329 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291016 ,12330 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,285578 ,12331 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287650 ,12332 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,292293 ,12333 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,287626 ,12334 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,286538 ,12335 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,295656 ,12336 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,281770 ,12337 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,282001 ,12338 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284817 ,12339 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,280249 ,12340 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,285769 ,12341 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,290064 ,12342 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291761 ,12343 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,284752 ,12344 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy ,285777 ,12345 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,296732 ,12346 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284209 ,12347 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,289881 ,12348 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,291733 ,12349 ,Forward,A
-Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay ,284732 ,12350 ,Forward,A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	275810	12337	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	275810	12337	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	276498	12337	 stepwise	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	276498	12337	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	276507	12337	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	277897	12339	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	277897	12339	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	277951	12300	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	277951	12300	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	278906	12315	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	278906	12315	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	278929	12339	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	278929	12339	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	278929	12339	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	279031	12315	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	279031	12315	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279035	12315	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279093	12300	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279093	12300	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279093	12300	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	279670	12338	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	279670	12338	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	279751	12321	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	279751	12321	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279925	12321	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279925	12321	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279925	12321	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279965	12338	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279965	12338	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	279965	12338	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	280068	12340	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	280068	12340	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	280080	12340	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	280249	12340	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	280249	12340	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	280257	12340	Backward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	280361	12326	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	280361	12326	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	280897	12326	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	280897	12326	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	280897	12326	 Forward	 AV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281487	12337	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281499	12337	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281499	12337	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	281555	12304	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281570	12304	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281570	12304	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	281591	12338	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281597	12338	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281597	12338	 Forward	 S
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	281758	12337	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	281770	12337	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	281770	12337	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281836	12300	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	281836	12300	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	281871	12304	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	281871	12304	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	281934	12300	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	281936	12322	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	281936	12322	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	282001	12338	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	282001	12338	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	282001	12338	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	282006	12328	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	282006	12328	 Forward	 SV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	282016	12304	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	282022	12304	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	282022	12304	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	282127	12350	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	282127	12350	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	282244	12324	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	282244	12324	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	282388	12300	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	282388	12300	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282443	12304	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282443	12304	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282443	12304	 Forward	 AV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	282472	12300	Backward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282490	12350	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282490	12350	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282490	12350	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282527	12328	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282527	12328	 Forward	 S
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282533	12328	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	282739	12329	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	282739	12329	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282768	12328	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282774	12328	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282774	12328	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282947	12316	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282947	12316	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282959	12321	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282959	12321	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	282971	12325	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282994	12325	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	282994	12325	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	282995	12324	 Backward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	283006	12321	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	283020	12324	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	283020	12324	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283057	12328	stepwise	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283057	12328	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283057	12328	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	283076	12316	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	283113	12329	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	283113	12329	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	283115	12322	 Backward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	283126	12329	 Backward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283127	12325	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283127	12325	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283127	12325	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	283147	12322	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	283147	12322	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283192	12321	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283192	12321	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283192	12321	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	283217	12326	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	283245	12326	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	283245	12326	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	283276	12308	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	283276	12308	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	283312	12316	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	283312	12316	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283379	12316	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283531	12326	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283531	12326	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	283531	12326	Forward	A
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	283715	12341	 stepwise	 SV
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	283715	12341	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	283862	12347	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	283862	12347	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	283862	12347	 Forward	 S
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	284027	12308	 stepwise	 AV
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	284027	12308	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284185	12308	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284185	12308	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	284191	12308	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284209	12347	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284209	12347	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284209	12347	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	284238	12339	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284243	12339	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284243	12339	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	284250	12350	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284279	12350	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284279	12350	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	284342	12308	 Backward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284358	12344	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284358	12344	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	284402	12344	 Backward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	284426	12315	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284447	12315	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284447	12315	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	284590	12301	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	284590	12301	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	284626	12341	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	284635	12341	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	284635	12341	 Forward	 AV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284659	12308	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284667	12308	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284667	12308	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	284677	12332	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	284677	12332	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284732	12350	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284732	12350	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284732	12350	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	284752	12344	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	284752	12344	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	284757	12345	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	284757	12345	 Forward	 SV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284780	12315	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284783	12315	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284783	12315	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	284797	12322	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284807	12322	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	284807	12322	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284817	12339	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284817	12339	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284817	12339	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	284864	12344	Backward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	284913	12332	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	284921	12332	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	284921	12332	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	284959	12334	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	284959	12334	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285002	12334	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285002	12334	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285002	12334	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285093	12301	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285093	12301	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285093	12301	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	285206	12331	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	285206	12331	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	285216	12331	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	285219	12325	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	285219	12325	 Forward	 SV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285243	12322	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285247	12322	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285247	12322	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	285291	12345	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	285291	12345	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	285316	12345	 Backward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285413	12325	 Backward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285578	12331	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285578	12331	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285578	12331	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	285598	12341	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	285629	12341	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	285629	12341	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	285633	12316	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	285633	12316	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	285639	12325	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	285639	12325	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	285691	12305	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	285691	12305	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	285769	12341	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	285769	12341	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	285777	12345	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	285777	12345	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285785	12345	Backward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285791	12345	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285823	12345	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	285823	12345	 Forward	 AV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	285865	12341	Backward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286114	12335	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286116	12335	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286116	12335	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	286213	12307	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286239	12307	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286239	12307	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	286416	12316	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	286416	12316	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	286416	12316	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	286522	12307	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	286522	12307	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	286525	12307	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	286538	12335	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	286538	12335	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	286538	12335	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	286556	12348	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	286556	12348	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286653	12311	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286653	12311	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	286672	12311	 Backward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	286816	12301	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286846	12301	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286846	12301	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286949	12306	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	286949	12306	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	286967	12306	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	287027	12340	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	287027	12340	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287039	12305	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287039	12305	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287039	12305	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287158	12348	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287192	12348	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287192	12348	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	287206	12311	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	287206	12311	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	287300	12334	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	287300	12301	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	287300	12334	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	287300	12301	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287301	12311	Backward	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287315	12301	Backward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	287317	12334	 Backward	 S
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287397	12306	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287420	12306	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287420	12306	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	287429	12332	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	287429	12332	 Forward	 S
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	287437	12332	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287567	12340	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287567	12340	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287567	12340	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287626	12334	stepwise	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287626	12334	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287626	12334	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287632	12332	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287650	12332	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	287650	12332	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	287668	12335	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	287668	12335	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	287691	12311	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	287691	12311	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287734	12335	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287743	12335	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	287743	12335	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	288233	12318	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288239	12318	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288239	12318	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	288243	12311	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	288243	12311	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	288256	12311	 Backward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	288283	12305	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288288	12305	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288288	12305	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	288546	12303	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288550	12318	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288550	12318	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288550	12318	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288552	12310	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288552	12310	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	288556	12310	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288580	12303	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	288580	12303	 Forward	 S
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288680	12303	Backward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288696	12306	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288696	12306	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288698	12303	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288698	12303	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288728	12331	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288728	12331	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288736	12305	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288736	12305	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	288736	12305	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288737	12318	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288737	12318	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288948	12342	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	288948	12342	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	289054	12310	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	289054	12310	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	289083	12318	 stepwise	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	289083	12318	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289096	12318	 Backward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	289119	12324	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	289119	12324	 Forward	 S
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289121	12310	Backward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	289123	12324	 Backward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	289183	12307	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	289183	12307	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	289233	12347	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	289233	12347	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	289262	12314	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	289262	12314	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289288	12331	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289288	12331	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289288	12331	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289329	12306	 Backward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	289366	12348	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	289392	12348	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	289392	12348	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289396	12306	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289396	12306	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289412	12347	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289412	12347	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289412	12347	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289414	12324	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289414	12324	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289414	12324	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289653	12342	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289653	12342	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289653	12342	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289677	12307	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289677	12307	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289677	12307	 Forward	 AV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	289707	12342	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	289766	12323	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	289766	12323	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	289783	12342	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	289783	12342	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289807	12314	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289807	12314	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	289807	12314	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289881	12348	stepwise	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289881	12348	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289881	12348	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	289985	12342	Backward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290060	12320	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290060	12320	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	290064	12342	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	290064	12342	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290368	12349	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290368	12349	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	290515	12312	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	290561	12312	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	290561	12312	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	290580	12330	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	290598	12330	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	290598	12330	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290641	12327	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290641	12327	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	290685	12303	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	290685	12303	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290800	12323	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290800	12323	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290800	12323	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290819	12349	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290840	12320	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290840	12320	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290840	12320	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290843	12349	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	290843	12349	 Forward	 AV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	290865	12312	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	290897	12312	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	290897	12312	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290970	12343	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	290970	12343	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291016	12330	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291016	12330	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291016	12330	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291112	12312	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291112	12312	 Forward	 SV
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291193	12319	 stepwise	 S
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291193	12319	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291247	12327	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291276	12327	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291276	12327	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291320	12312	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291353	12312	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291353	12312	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291357	12330	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291357	12330	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	291380	12319	 Backward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	291399	12329	 Backward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	291399	12343	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291405	12329	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291405	12329	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291410	12343	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291410	12343	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291419	12303	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291419	12303	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291419	12303	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291440	12319	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291440	12319	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	291442	12349	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291457	12349	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291457	12349	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291509	12333	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291509	12333	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291563	12330	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291565	12330	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291565	12330	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291627	12344	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291627	12344	 Forward	 SV
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291646	12319	stepwise	A
+Intercept Boy Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291646	12319	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291675	12329	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291675	12329	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291675	12329	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291733	12349	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291733	12349	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291733	12349	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291761	12343	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291761	12343	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291769	12343	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291770	12343	 stepwise	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291770	12343	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291797	12343	 Backward	 AV
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	291811	12319	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291813	12319	 stepwise	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy 	291813	12319	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291925	12313	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	291925	12313	 Forward	 SV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	291943	12333	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291976	12333	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	291976	12333	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	291996	12319	 Backward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	292081	12323	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292109	12323	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292109	12323	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292287	12333	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292287	12333	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292287	12333	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292292	12313	 Backward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292293	12333	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292293	12333	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292293	12333	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292296	12313	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292296	12313	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	292305	12314	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292328	12314	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292328	12314	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292436	12344	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292436	12344	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	292436	12344	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292651	12314	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292651	12314	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292663	12314	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292668	12323	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292668	12323	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	292668	12323	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292823	12327	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292823	12327	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292910	12320	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	292910	12320	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	292924	12320	 Backward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	292976	12327	 Backward	 S
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293131	12327	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293133	12327	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293133	12327	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	293304	12313	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293309	12320	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293309	12320	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293309	12320	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	293321	12313	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	293321	12313	 Forward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	293585	12317	 stepwise	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Visit 	293585	12317	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	293586	12302	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	293586	12302	 Forward	 SV
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293771	12313	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293774	12313	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	293774	12313	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	294115	12317	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	294115	12317	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	294115	12317	 Forward	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	294172	12317	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	294205	12317	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	294205	12317	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	294437	12302	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	294456	12302	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	294456	12302	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	294559	12317	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	294559	12317	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	294559	12317	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	294607	12336	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	294607	12336	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	294748	12346	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	294748	12346	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	294893	12309	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	294893	12309	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	294921	12309	 Backward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	295232	12336	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	295261	12336	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	295261	12336	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	295390	12336	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	295390	12336	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	295390	12336	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	295438	12309	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	295438	12309	Forward	A
+Intercept Black Boy Married MomEdLevel realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	295448	12309	Backward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	295496	12346	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	295500	12346	 stepwise	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	295500	12346	 Forward	 AV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	295656	12336	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	295656	12336	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	295656	12336	Forward	A
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	295945	12302	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	295968	12302	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	295968	12302	 Forward	 S
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	296208	12310	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	296208	12310	 Forward	 SV
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	296338	12346	 stepwise	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy 	296338	12346	 Forward	 S
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay MomWtGain Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*MomWtGain 	296421	12346	 Backward	 S
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	296457	12302	stepwise	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	296457	12302	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	296457	12302	Forward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	296732	12346	stepwise	A
+Intercept Black Boy Married MomEdLevel realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	296732	12346	Backward	A
+Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay 	296732	12346	Forward	A
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	297138	12309	 stepwise	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit 	297138	12309	 Forward	 SV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	297237	12310	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	297237	12310	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	297237	12310	 Forward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	298125	12309	 stepwise	 AV
+Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	298125	12309	 Backward	 AV
+Intercept Boy MomEdLevel Visit Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Visit 	298125	12309	 Forward	 AV
