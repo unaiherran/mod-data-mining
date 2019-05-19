@@ -488,8 +488,32 @@ Los modelos a estudiar son:
 
 Una vez optimizado y quitando los valores con un P Valor alto, el modelo que mejor resultado ha tenido es:
 
-## (weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)
+### (weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)
 		   
+![modelo](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/07_modelo.png)
+
+## Conclusiones
+
+Este modelo tiene un R^2 peor que sin los outliers en cuanto al r^2 y mejor en el ASEVAL, pero ambos valores, y ambos modelos no parecen ser muy predictivos ya que tienen mucho error aleatorio. Probablemente sea necesario obtener alguna otra variable y repetir el estudio, para encontrar valores de error menores.
+
+En cualquier caso, y sabiendo que el modelo se puede mejorar, paso a hacer el estudio con el 
+
+## Data Miner
+
+En Sas Studio exportamos el dataset con el que hemos trabajado, a un a librería ya 'cocinada'
+
+```
+data lib_prac.bweight_cooked;
+   set bwgCno;
+run;
+```
+ 
+E importamos esta libreria en el Data Miner
+
+![dataminer](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/08_dataminer.png)
+
+
+
 
 
 
