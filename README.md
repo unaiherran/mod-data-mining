@@ -91,7 +91,9 @@ proc sort data=bwg out=B dupout=C nodupkey; By _all_ ; run;
 ```
 Pero considero que no son datos duplicados, sino dos observaciones distintas de eventos distintos con exactamente los mismos valores en todas las variables. Puede parecer mucha cincidencia, pero si consideramos que gran parte de las variables son variables categoricas con poca variabilidad en sus posibilidades, basta con que se coincidan el peso del bebe y la ganancia del peso de la madre. Si estudiamos el conjunto C vemos que los valores del conjunto C (datos eliminados) son muy cercanos a la mediana, y creo que puedo dar por valido este razonamiento. 
 
-Si después de hablar con el suministrador de los datos este nos indica que **SI** hay variables duplicadas, podriamos seguir el estudio con el conjunto B. Pero por el momento usamos el conjunto original.
+Si después de hablar con el suministrador de los datos este nos indica que **SI** hay variables duplicadas, podriamos seguir el estudio con el conjunto B. 
+
+Pero por el momento usamos el conjunto original.
 
 ### Logica previa en los datos
 
@@ -213,7 +215,7 @@ proc freq data=bwgc;
 |50|	4|	0.01|	49998|	100.00|
 |60|	2|	0.00|	50000|	100.00|
 
-De nuevo no faltan valores, pero vemos que el casi el 87% de las observaciones son de no fumadoras, y sólo el 13% restante es de fumadoras. Lo podemos usar para el modelo, pero al ser tan pocos no sé seguro cuanto puede afectar al mismo. Por sentido comun el hecho de que fume la madre debería afectar al peso del bebe, pero hay que estudiarlo.
+De nuevo no faltan valores, pero vemos que el casi el 87% de las observaciones son de no fumadoras, y sólo el 13% restante es de fumadoras. Lo podemos usar para el modelo, pero al ser tan pocos relativamente, no sé seguro cuanto puede afectar al mismo. Por sentido común el hecho de que fume la madre debería afectar al peso del bebe, pero hay que estudiarlo.
 
 #### Mother Weight Gain
 
@@ -455,7 +457,7 @@ proc freq data=resultado_clean;
 
 Hay un modelo que se repite en multitud de ocasiones `Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy`, pero los valores de ASEVAL son muy altos (entre 275810 y 298125) y creo que es necesario seguir dandole alguna vuelta.
 
-## Más DataCooking y repeticion del estudio.
+## Más DataCooking y repetición del estudio.
 
 En el estudio previo hemos considerado todos los datos del dataset original. Puede que los outliers en la variable objetivo distorsionen el resultado del modelo. Con lo que voy a realizar un nuevo estudio del mismo para intentar eliminarlo y mejorar el modelo.
 
@@ -486,6 +488,7 @@ y repetimos las macros para los nuevos datasets, obteniendo  [resultados02.txt](
 Analizando estos resultados vemos varios modelos que se repiten varias veces y que los valores de ASEeval han bajado.(217588-232091) siguen siendo muy altos.
 
 Los modelos a estudiar son:
+
 |Modelo     | R^2   |
 |-----------|-------------------------------|
 | Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy realMomAge*Married CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit|  0.098710 |
@@ -500,7 +503,8 @@ Una vez optimizado y quitando los valores con un P Valor alto, el modelo que mej
 
 Este modelo tiene un R^2 peor que sin los outliers en cuanto al r^2 y mejor en el ASEVAL, pero ambos valores, y ambos modelos no parecen ser muy predictivos ya que tienen mucho error aleatorio. Probablemente sea necesario obtener alguna otra variable y repetir el estudio, para encontrar valores de error menores.
 
-En cualquier caso, y sabiendo que el modelo se puede mejorar, paso a hacer el estudio con el 
+En cualquier caso, y sabiendo que el modelo se puede mejorar, paso a hacer el estudio con el Dataminer, a ver si aplicando algun otro modelo distinto en lugar del GLM podemos mejorar el resultado.
+
 
 ## Data Miner
 
@@ -522,6 +526,3 @@ E importamos esta libreria en el Data Miner, partimos los datos en Training 70, 
 ![selected_model_graph](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/09_selected_model_graph.png)
 
 y vemos que tanto en los gráficos como en los valores el modelo elegido es la Red Neuronal. Pese a todo, y como se ha indicado previamente, el valor de error cuadratico medio (ASE) es muy elevado, y el modelo tendría que mejorarse.
-
-
-
