@@ -350,6 +350,75 @@ De estos supuestos saco los siguientes modelos
 | bwgW    | Si | Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy pesoAgrupado*Visit |   0.104320  |
 | bwgW    | No |  Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay     |  0.103479   |
 
+Los valores de R^2 que obtenemos son muy bajos, siendo el mejor bwgC y con visit como variable de clase.
+
+Esto me hace sospechar que tenemos algun fallo en los datos de entrada, y que puede que sea necesario mejorar los datasets iniciales.
+
+Pese a ello, y por concluir el estudio, genero unas macros para hacer el estudio con distintas semillas y distinto metodo para realizar distintas simulaciones
+
+
+```
+
+%let libMSV = '/home/u38083750/unaiherran/Practica1/Output/resultados01.txt';
+
+/*Macro Sin Agrupar MomWTGain y Visit class*/;
+%macro macroSV (semi_ini, semi_fin, metodo);
+
+%do semilla=&semi_ini. %to &semi_fin.;
+	ods graphics on;
+	ods output   SelectionSummary=modelos;
+	ods output   SelectedEffects=efectos;
+	ods output   Glmselect.SelectedModel.FitStatistics=ajuste;
+	
+	proc glmselect data=bwgC plots=all seed=&semilla;
+		  partition fraction(validate=0.2);
+		  class Black Boy Married MomEdLevel Visit; 
+		  model weight = Black Boy Married MomEdLevel Visit RealMomAge CigsPerDay MomWtGain
+		  				Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit
+		 		 
+	  / selection=&metodo.(select=aic choose=validate) details=all stats=all;
+	run;
+	
+	ods graphics off;   
+	ods html close;   
+	
+	data union; i=12; set efectos; set ajuste point=i; run; *observación 12 ASEval;
+	
+	data  _null_;
+		semilla=&semilla; 
+		metodo=&metodo.;
+	file &libMSV mod;
+	set union;put effects "," nvalue1 "," semilla ", &metodo., SV";run;
+
+	proc sql; drop table modelos,efectos,ajuste,union; quit;
+%end;
+
+%mend;
+
+```
+* macroSV (dataset sin agrupar y con visit como variable de clase)
+* macroS (dataset sin agrupar y sin visit como variable de clase)
+* macroAV (dataset agrupado y con visit como variable de clase)
+* macroA (dataset agrupado y sin visit como variable de clase)
+
+
+Y lo ejecutamos muchas veces con distintas semillas y distintos metodos.
+
+```
+%macroSV (12300,12350, stepwise);
+%macroS (12300,12350, stepwise);
+%macroAV (12300,12350, stepwise);
+%macroA (12300,12350, stepwise);
+%macroSV (12300,12350,, Backward);
+%macroS (12300,12350, Backward);
+%macroAV (12300,12350, Backward);
+%macroA (12300,12350, Backward);
+%macroSV (12300,12350, Forward);
+%macroS (12300,12350, Forward);
+%macroAV (12300,12350, Forward);
+%macroA (12300,12350, Forward);
+```
+
 
 
 
