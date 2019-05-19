@@ -78,6 +78,8 @@ run;
 ```
 ![univariate](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/02_univariate.png)
 
+La variable objetivo `weight`tiene un número alto de outliers en la parte inferior de los valores. Empiezo el estudio con todos los valores, pero lo tendré en cuenta en el caso de que sea necesario, para eliminarlos si llegase el caso.
+
 
 ## Data Cooking:
 
@@ -87,11 +89,11 @@ Empezamos con 50000 observaciones y 10 variables. Podriamos eliminar duplicados 
 ```
 proc sort data=bwg out=B dupout=C nodupkey; By _all_ ; run;
 ```
-Pero considero que no son datos duplicados, sino dos observaciones distintas de eventos distintos con exactamente los mismos valores en todas las variables.
+Pero considero que no son datos duplicados, sino dos observaciones distintas de eventos distintos con exactamente los mismos valores en todas las variables. Puede parecer mucha cincidencia, pero si consideramos que gran parte de las variables son variables categoricas con poca variabilidad en sus posibilidades, basta con que se coincidan el peso del bebe y la ganancia del peso de la madre. Si estudiamos el conjunto C vemos que los valores del conjunto C (datos eliminados) son muy cercanos a la mediana, y creo que puedo dar por valido este razonamiento. Si después de hablar con el suministrador de los datos este nos indica que **SI** hay variables duplicadas, podriamos seguir el estudio con el conjunto B. Pero por el momento usamos el conjunto original.
 
 ### Logica previa en los datos
 
-La variable MomSmoke es 0 si la madre no fuma y 1 si lo hace. Además tenemos la variable numero de cigarrilos al dia. Antes de nada hacemos una comprobacion básica de si hay error en los datos y se ha indicado que una mujer fuma pero luego toma 0 cigarrillos al día o al contrario, la observacion dice que no fuma pero luego consume mas de 0 cigarrilos al día:
+La variable `MomSmoke` es 0 si la madre no fuma y 1 si lo hace. Además tenemos la variable numero de cigarrilos al dia. Antes de nada hacemos una comprobacion básica de si hay error en los datos y se ha indicado que una mujer fuma pero luego toma 0 cigarrillos al día o al contrario, la observacion dice que no fuma pero luego consume mas de 0 cigarrilos al día:
 
 ```data bwgDummy (keep = alerta);
  set bwg;
