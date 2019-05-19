@@ -292,11 +292,66 @@ No faltan ningun valor, lo podemos usar para el modelo. La distribución no es n
 
 
 
-
-
+### Variables correladas
+```
 proc corr data=bwg;
 run;
 /* No hay ninguna variable correlada */;
+```
+![corr](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/05_corr.png)
+
+No existen variables con un valor alto de correlación, con lo que damos este paso por concluido.
+
+## Genración de modelo
+A partir de este momento tenemos dos datasets limpios a priori bwgC y bwgW, el primero con la edad de la madre corregido y el segundo con la ganancia de peso agrupada en cada 5 kilos para evitar los errores en la toma de datos (explicado previamente.
+ 
+Con estos datasets vamos a intentar generar un modelo. 
+
+Para ello usamos el GLMSELECT, usando todas las variables como input y todas sus posibles combinaciones para que el procedimiento elija las más significativas 
+
+```
+proc glmselect data=bwgC;
+ class Black Boy Married MomEdLevel Visit;
+ model weight = Black Boy Married MomEdLevel Visit RealMomAge CigsPerDay MomWtGain
+ 				Black*Boy Black*Married Black*MomEdLevel Black*Visit Black*RealMomAge Black*CigsPerDay Black*MomWtGain
+ 				Boy*Married Boy*MomEdLevel Boy*Visit Boy*RealMomAge Boy*CigsPerDay Boy*MomWtGain
+ 				Married*MomEdLevel Married*Visit Married*RealMomAge Married*CigsPerDay Married*MomWtGain
+ 				MomEdLevel*Visit MomEdLevel*RealMomAge MomEdLevel*CigsPerDay MomEdLevel*MomWtGain
+ 				Visit*RealMomAge Visit*CigsPerDay Visit*MomWtGain
+ 				CigsPerDay*MomWtGain
+ 				
+
+       /selection=stepwise; 
+run;
+
+```
+
+Hacemos esto para ambos modelos bwgC y bwgW
+
+y luego estudiamos los efectos
+
+```
+proc glm data=bwgC;
+ class Black Boy Married MomEdLevel Visit;
+ model weight = Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit /solution e;
+run;
+```
+
+Eliminando interacciones hasta que no vemos ninguna con un error tipo III con valores de P valor superior a 0.05, y saco el coeficiente de correlación.
+
+Además, me surge la duda de si la variable `visit` puede considerarse una variable de clase o no. A priori, considero que no, que es una variable puramente numerica, pero realizo el estudio con ambas posibilidades.
+
+De estos supuestos saco los siguientes modelos
+
+|Dataset  |class visit|Modelo   | R^2   |
+|---------|-----------|-------------------------------|--------------------|
+| bwgC    | Si | Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy MomWtGain*Visit  |  0.105719  |
+| bwgC    | No |  Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy Visit*CigsPerDay|  0.104320  |
+| bwgW    | Si | Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy pesoAgrupado*Visit |   0.104320  |
+| bwgW    | No |  Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy pesoAgrupado*Boy Visit*CigsPerDay     |  0.103479   |
+
+
+
 
 
 
