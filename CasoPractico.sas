@@ -842,25 +842,99 @@ run;
 
 proc glm data=bwgCnO;
  class Black Boy Married MomEdLevel;
- model weight = Intercept Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy 
+ model weight = Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy 
 MomWtGain*Boy CigsPerDay*Married MomWtGain*MomEdLevel Visit*CigsPerDay /solution e;
 run;
+/* 0.098127*/;
+
+
+
+
 
 
 proc glm data=bwgWno;
  class Black Boy Married MomEdLevel;
- model weight = Intercept Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy 
-pesoAgrupado*Boy CigsPerDay*Married realMomAg*MomEdLevel pesoAgrup*MomEdLevel 
-Visit*CigsPerDay /solution e;
+ model weight = Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy 
+pesoAgrupado*Boy CigsPerDay*Married realMomAge*MomEdLevel pesoAgrupado*MomEdLevel Visit*CigsPerDay /solution e;
 run;
+
+proc glm data=bwgWno;
+ class Black Boy Married MomEdLevel;
+ model weight = Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy 
+pesoAgrupado*Boy CigsPerDay*Married pesoAgrupado*MomEdLevel Visit*CigsPerDay /solution e;
+run;
+
+/* 0.096577 */;
+
+
+
 
 
 proc glm data=bwgCnO;
  class Black Boy Married MomEdLevel;
  model weight = Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married 
-CigsPerDay*Boy MomWtGain*Boy realMomAge*Married CigsPerDay*Married realMomAg*MomEdLevel 
+CigsPerDay*Boy MomWtGain*Boy realMomAge*Married CigsPerDay*Married realMomAge*MomEdLevel 
 MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit /solution e;
 run;
 
+proc glm data=bwgCnO;
+ class Black Boy Married MomEdLevel;
+ model weight =  Black*MomEdLevel realMomAge*Black  Boy*Married 
+CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married realMomAge*MomEdLevel 
+ CigsPerDay*Visit  /solution e;
+run;
+/* 0.098088 */;
 
 
+
+/* Modelo con menor ASEVAL*/;
+
+proc glmselect data=bwgCno plots=all seed=12307;
+		  partition fraction(validate=0.2);
+		  class Black Boy Married MomEdLevel Visit; 
+		  model weight =  Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
+		  realMomAge*Married CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit 
+		 		 
+	  / selection=forward(select=aic choose=validate) details=all stats=all;
+	run;
+/*217588 */;
+
+proc glm data=bwgCno;
+		  class Black Boy Married MomEdLevel Visit; 
+		  model weight =  Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
+		  realMomAge*Married CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit 
+		  / solution e;
+		  run;
+
+proc glm data=bwgCno;
+		  class Black Boy Married MomEdLevel Visit; 
+		  model weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
+		   CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit 
+		  / solution e;
+		  run;		  
+		  
+		 /* 0.098710 */
+
+proc glmselect data=bwgCno plots=all seed=12307;
+		  partition fraction(validate=0.2);
+		  class Black Boy Married MomEdLevel Visit; 
+		  model weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
+		   CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit
+		 		 
+	  / selection=forward(select=aic choose=validate) details=all stats=all;
+	run;		  
+		  /* 217280 */
+		 
+		 
+		 
+		 
+		 /* Grabamos la libreria para usarlo en el DataMiner */;
+		 
+data lib_prac.bweight_cooked;
+   set bwgCno;
+run;
+		 
+data lib_prac.bweightW_cooked;
+   set bwgWno;
+run;		 
+ 
