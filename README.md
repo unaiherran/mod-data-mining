@@ -508,7 +508,8 @@ data lib_prac.bweight_cooked;
 run;
 ```
  
-E importamos esta libreria en el Data Miner
+E importamos esta libreria en el Data Miner, partimos los datos en Training 70, Validation 15, Test 15 y los introducimos en dos modelos distintos, un GLM y una red neuronal, para despues comparar los modelos.
+
 
 ![dataminer](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/08_data_miner.png)
 
