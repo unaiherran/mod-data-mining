@@ -513,8 +513,11 @@ E importamos esta libreria en el Data Miner, partimos los datos en Training 70, 
 
 ![dataminer](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/08_data_miner.png)
 
+![selected_model](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/09_selected_model.png)
 
+![selected_model_graph](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/09_selected_model_graph.png)
 
+y vemos que tanto en los gráficos como en los valores el modelo elegido es la Red Neuronal. Pese a todo, y como se ha indicado previamente, el valor de error cuadratico medio (ASE) es muy elevado, y el modelo tendría que mejorarse.
 
 
 
