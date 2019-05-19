@@ -302,7 +302,7 @@ run;
 
 No existen variables con un valor alto de correlación, con lo que damos este paso por concluido.
 
-## Genración de modelo
+## Generación de modelo
 A partir de este momento tenemos dos datasets limpios a priori bwgC y bwgW, el primero con la edad de la madre corregido y el segundo con la ganancia de peso agrupada en cada 5 kilos para evitar los errores en la toma de datos (explicado previamente.
  
 Con estos datasets vamos a intentar generar un modelo. 
@@ -419,6 +419,50 @@ Y lo ejecutamos muchas veces con distintas semillas y distintos metodos.
 %macroA (12300,12350, Forward);
 ```
 
-Los resultados los guardamos en  ( [resultados01.txt](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/output/resultados01.txt04_TTest.pdf) ) 
+Los resultados los guardamos en  ( [resultados01.txt](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/output/resultados01.txt) ) 
+
+### Estudio de los resultados de las macros
+
+Despues de realizar 560 simulaciones, evaluamos los distintos modelos elegidos y su ASEVAL
+
+```
+proc import datafile = '/home/u38083750/unaiherran/Practica1/Output/resultados01.txt'
+ out = resultado
+ dbms = dlm
+ replace;
+ delimiter = ',';
+ getnames = no;
+run;
+
+
+data resultado_clean;
+ set resultado; 
+ rename           VAR1 = modelo
+                          var2 = ASEEval
+                          var3 = semilla
+                          var4 = metodo
+                          var5 = dataset;
+run;
+
+proc sort data=resultado_clean; by modelo;
+
+proc freq data=resultado_clean;
+```
+
+Hay un modelo que se repite en multitud de ocasiones `Intercept Boy MomEdLevel Black*Married realMomAge*Black CigsPerDay*Boy MomWtGain*Boy`, pero los valores de ASEVAL son muy altos (entre 275810 y 298125) y creo que es necesario seguir dandole alguna vuelta.
+
+## Más DataCooking y repeticion del estudio.
+
+En el estudio previo hemos considerado todos los datos del dataset original. Puede que los outliers en la variable objetivo distorsionen el resultado del modelo. Con lo que voy a realizar un nuevo estudio del mismo para intentar eliminarlo y mejorar el modelo.
+
+```proc univariate data=bwgC normal plot;
+ var weight;
+ HISTOGRAM /NORMAL(COLOR=MAROON W=4) CFILL = BLUE CFRAME = LIGR;
+ INSET MEAN STD /CFILL=BLANK FORMAT=5.2;
+run;```
+
+
+![quantile](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/06_weight_cuantile.png)
+
 
 
