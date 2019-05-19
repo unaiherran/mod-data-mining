@@ -488,7 +488,7 @@ Los modelos a estudiar son:
 
 Una vez optimizado y quitando los valores con un P Valor alto, el modelo que mejor resultado ha tenido es:
 
-##(weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)
+## (weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)
 		   
 
 
