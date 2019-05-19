@@ -78,7 +78,7 @@ run;
 ```
 ![univariate](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/02_univariate.png)
 
-La variable objetivo `weight`tiene un número alto de outliers en la parte inferior de los valores. Empiezo el estudio con todos los valores, pero lo tendré en cuenta en el caso de que sea necesario, para eliminarlos si llegase el caso.
+La variable objetivo `weight` tiene un número alto de outliers en la parte inferior de los valores. Empiezo el estudio con todos los valores, pero lo tendré en cuenta en el caso de que sea necesario, para eliminarlos si llegase el caso.
 
 
 ## Data Cooking:
@@ -89,7 +89,9 @@ Empezamos con 50000 observaciones y 10 variables. Podriamos eliminar duplicados 
 ```
 proc sort data=bwg out=B dupout=C nodupkey; By _all_ ; run;
 ```
-Pero considero que no son datos duplicados, sino dos observaciones distintas de eventos distintos con exactamente los mismos valores en todas las variables. Puede parecer mucha cincidencia, pero si consideramos que gran parte de las variables son variables categoricas con poca variabilidad en sus posibilidades, basta con que se coincidan el peso del bebe y la ganancia del peso de la madre. Si estudiamos el conjunto C vemos que los valores del conjunto C (datos eliminados) son muy cercanos a la mediana, y creo que puedo dar por valido este razonamiento. Si después de hablar con el suministrador de los datos este nos indica que **SI** hay variables duplicadas, podriamos seguir el estudio con el conjunto B. Pero por el momento usamos el conjunto original.
+Pero considero que no son datos duplicados, sino dos observaciones distintas de eventos distintos con exactamente los mismos valores en todas las variables. Puede parecer mucha cincidencia, pero si consideramos que gran parte de las variables son variables categoricas con poca variabilidad en sus posibilidades, basta con que se coincidan el peso del bebe y la ganancia del peso de la madre. Si estudiamos el conjunto C vemos que los valores del conjunto C (datos eliminados) son muy cercanos a la mediana, y creo que puedo dar por valido este razonamiento. 
+
+Si después de hablar con el suministrador de los datos este nos indica que **SI** hay variables duplicadas, podriamos seguir el estudio con el conjunto B. Pero por el momento usamos el conjunto original.
 
 ### Logica previa en los datos
 
@@ -305,7 +307,7 @@ run;
 No existen variables con un valor alto de correlación, con lo que damos este paso por concluido.
 
 ## Generación de modelo
-A partir de este momento tenemos dos datasets limpios a priori bwgC y bwgW, el primero con la edad de la madre corregido y el segundo con la ganancia de peso agrupada en cada 5 kilos para evitar los errores en la toma de datos (explicado previamente.
+A partir de este momento tenemos dos datasets limpios a priori `bwgC` y `bwgW`, el primero con la edad de la madre corregido y el segundo con la ganancia de peso agrupada en cada 5 kilos para evitar los errores en la toma de datos (explicado previamente.
  
 Con estos datasets vamos a intentar generar un modelo. 
 
