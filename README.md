@@ -484,11 +484,14 @@ Analizando estos resultados vemos varios modelos que se repiten varias veces y q
 Los modelos a estudiar son:
 |Modelo   | R^2   |
 |-----------|-------------------------------|
-|Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Boy Black*Married realMomAge*Black CigsPerDay*Black pesoAgrupado*Black Boy*Married Boy*Visit realMomAge*Boy CigsPerDay*Boy pesoAgrupado*Boy Married|  0.095851 |
+|Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
+		  realMomAge*Married CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit|  0.098710 |
 
-|Intercept Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married MomWtGain*MomEdLevel Visit*CigsPerDay|   |
+Una vez optimizado y quitando los valores con un P Valor alto, el modelo que mejor resultado ha tenido es:
+
+**(weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
+		   CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)**
+		   
 
 
-|Intercept Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Married realMomAg*MomEdLevel pesoAgrup*MomEdLevel Visit*CigsPerDay|   |
 
-|Intercept Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy realMomAge*Married CigsPerDay*Married realMomAg*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit|    |
