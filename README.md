@@ -490,7 +490,7 @@ Una vez optimizado y quitando los valores con un P Valor alto, el modelo que mej
 
 ### (weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)
 		   
-![modelo](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/07_modelo.png)
+![modelo](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/07_model.png)
 
 ## Conclusiones
 
@@ -510,7 +510,7 @@ run;
  
 E importamos esta libreria en el Data Miner
 
-![dataminer](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/08_dataminer.png)
+![dataminer](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/08_data_miner.png)
 
 
 
