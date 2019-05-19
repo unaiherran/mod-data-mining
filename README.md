@@ -455,14 +455,40 @@ Hay un modelo que se repite en multitud de ocasiones `Intercept Boy MomEdLevel B
 
 En el estudio previo hemos considerado todos los datos del dataset original. Puede que los outliers en la variable objetivo distorsionen el resultado del modelo. Con lo que voy a realizar un nuevo estudio del mismo para intentar eliminarlo y mejorar el modelo.
 
-```proc univariate data=bwgC normal plot;
+```
+proc univariate data=bwgC normal plot;
  var weight;
  HISTOGRAM /NORMAL(COLOR=MAROON W=4) CFILL = BLUE CFRAME = LIGR;
  INSET MEAN STD /CFILL=BLANK FORMAT=5.2;
-run;```
+run;
 
+```
 
 ![quantile](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/img/06_weight_cuantile.png)
 
+Eliminamos las observaciones extremas
+
+```
+data bwgCnO;
+   set bwgC;
+   if weight <= 1559 or weight >= 4605 then delete;
+run;
+
+```
+
+y repetimos las macros para los nuevos datasets, obteniendo  [resultados02.txt](https://raw.githubusercontent.com/unaiherran/mod-data-mining/master/output/resultados02.txt)
 
 
+Analizando estos resultados vemos varios modelos que se repiten varias veces y que los valores de ASEeval han bajado.(217588-232091) siguen siendo muy altos.
+
+Los modelos a estudiar son:
+|Modelo   | R^2   |
+|-----------|-------------------------------|
+|Intercept Black Boy Married MomEdLevel Visit realMomAge CigsPerDay pesoAgrupado Black*Boy Black*Married realMomAge*Black CigsPerDay*Black pesoAgrupado*Black Boy*Married Boy*Visit realMomAge*Boy CigsPerDay*Boy pesoAgrupado*Boy Married|  0.095851 |
+
+|Intercept Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married MomWtGain*MomEdLevel Visit*CigsPerDay|   |
+
+
+|Intercept Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy pesoAgrupado*Boy CigsPerDay*Married realMomAg*MomEdLevel pesoAgrup*MomEdLevel Visit*CigsPerDay|   |
+
+|Intercept Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy realMomAge*Married CigsPerDay*Married realMomAg*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit|    |
