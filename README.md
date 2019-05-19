@@ -482,15 +482,13 @@ y repetimos las macros para los nuevos datasets, obteniendo  [resultados02.txt](
 Analizando estos resultados vemos varios modelos que se repiten varias veces y que los valores de ASEeval han bajado.(217588-232091) siguen siendo muy altos.
 
 Los modelos a estudiar son:
-|Modelo   | R^2   |
+|Modelo     | R^2   |
 |-----------|-------------------------------|
-|Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
-		  realMomAge*Married CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit|  0.098710 |
+| Visit Black*MomEdLevel realMomAge*Black CigsPerDay*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy realMomAge*Married CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*MomEdLevel CigsPerDay*Visit MomWtGain*Visit|  0.098710 |
 
 Una vez optimizado y quitando los valores con un P Valor alto, el modelo que mejor resultado ha tenido es:
 
-**(weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy 
-		   CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)**
+##(weight =  Visit Black*MomEdLevel realMomAge*Black Boy*Married CigsPerDay*Boy MomWtGain*Boy CigsPerDay*Married realMomAge*MomEdLevel MomWtGain*Visit)
 		   
 
 
